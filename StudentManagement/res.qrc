@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Chtholly.png</file>
+        <file>images/yuno.png</file>
+        <file>icon/yuno.ico</file>
+    </qresource>
+</RCC>
